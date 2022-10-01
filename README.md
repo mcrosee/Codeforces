@@ -1,2 +1,2 @@
 # Codeforces
-List of my codeforces solution
+List of codeforces solution
