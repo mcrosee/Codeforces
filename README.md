@@ -1,2 +1,2 @@
 # Codeforces
-List of codeforces solution
+List of codeforces solution (mostly cpp)
