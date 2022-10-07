@@ -1,2 +1,2 @@
 # Codeforces
-List of codeforces solution (mostly cpp)
+List of my codeforces solution (mostly cpp)
